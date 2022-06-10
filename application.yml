@@ -9,4 +9,4 @@ eureka:
 
 address:
   provider:
-    url: http://address-service/address/
+    url: http://address-service/address/2
