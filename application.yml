@@ -9,4 +9,7 @@ eureka:
 
 address:
   provider:
-    url: http://address-service/address/2
+    url: http://address-service/address/
+    
+user:
+  message: Hello pradip
